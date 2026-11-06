@@ -228,16 +228,16 @@ ol {
   color: inherit;
 }
 
+.search-form__submit-button {
+  align-self: flex-end;
+  width: 194px;
+}
+
 .search-form__pseudo-checkbox {
   width: 20px;
   height: 20px;
   border: 1px solid #fff;
   padding: 1px; 
-}
-
-.search-form__submit-button {
-  align-self: flex-end;
-  width: 194px;
 }
 
 .search-form__textfield:focus {
