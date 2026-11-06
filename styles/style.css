@@ -236,8 +236,8 @@ ol {
 .search-form__pseudo-checkbox {
   width: 20px;
   height: 20px;
+  padding: 1px;
   border: 1px solid #fff;
-  padding: 1px; 
 }
 
 .search-form__textfield:focus {
